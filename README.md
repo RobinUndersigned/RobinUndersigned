@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Robin. I am a 27 years old, first clas degree computer science & media student at HTW-Berlin and part time frontend developer 👨🏽‍💻. Currently I'm working on finishing my master studies :man_student:. \
+My Name is Robin. I am a 27 years old, first class degree Intl. Media & Computer Science student at HTW-Berlin and part time frontend developer 👨🏽‍💻. Currently I'm working on finishing my master studies :man_student:. \
  \
 I :hearts: to bring user interfaces to life using different Frameworks (**Reactjs** and **Vuejs**) and **Typescript** :rocket:. Besides that I also enjoy building websites using **Php** and **Mysql**. When I'm not doing frontend development I practice functional programming with **Haskell** and **Scala** and I'm also interested in **Blockchain development** and **Web3**. 
 
