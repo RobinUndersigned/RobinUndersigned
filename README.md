@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**RobinUndersigned/RobinUndersigned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Robin. I am a 27 years old computer science & media student at HTW-Berlin 👨🏽‍💻. Currently I'm working on finishing my master studies :man_student:. \
+ \
+I :hearts: to bring user interfaces to life using different Frameworks (**Reactjs** and **Vuejs**) and **Typescript** :rocket:. Besides that I also enjoy building websites using **Php** and **Mysql**. When I'm not doing frontend development I practice functional programming with **Haskell** and **Scala** and I'm also interested in **Blockchain development** and **Web3**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other things I love are: \
+ :notes: Music production \
+ :headphones: Djing \
+ :art: Art \
+ :performing_arts: Museums, clubs and other cultural spaces \
+ :bicyclist: Cycling thorugh Berlin. \
+ :seedling: Cooking vegan food
